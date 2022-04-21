@@ -10,7 +10,7 @@ from PIL import Image
 
 import matplotlib.pyplot as plt
 
-from skimage.transform import resize
+
 
 import plotly.express as px
 import pickle
