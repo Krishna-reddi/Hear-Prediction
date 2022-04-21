@@ -20,7 +20,7 @@ with open('standardscaler.pkl', 'rb') as file:
     scaler = pickle.load(file)
 
 
-with open('knnclassifier.pkl', 'rb') as file:
+with open('classifier.pkl', 'rb') as file:
     knn = pickle.load(file)
 
 page = st.sidebar.selectbox(
