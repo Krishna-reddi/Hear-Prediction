@@ -1,4 +1,4 @@
-from regex import D
+
 import streamlit as st
 import altair as altc
 import pandas as pd
@@ -11,7 +11,7 @@ from PIL import Image
 import matplotlib.pyplot as plt
 
 from skimage.transform import resize
-import tensorflow as tf
+
 import plotly.express as px
 import pickle
 
